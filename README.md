@@ -1,12 +1,12 @@
 # Power-BI
 
 <div align="center">
-<img align="center" alt="PRi-pic" height="500" width="1000" src="https://github.com/PriCarlos/PriCarlos/assets/136395423/3adb8da0-ecce-4d70-bad9-556680cc8745" />
+<img align="center" alt="PRi-pic" height="500" width="1000" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/e55a7e28-0293-4192-b62d-e87546b63aa4"/>
 <br>
   <br>
   <br>
 <div align="center">
-<img align="center" alt="PRi-pic" height="500" width="1000" src="https://github.com/PriCarlos/PriCarlos/assets/136395423/05cc2ef1-01cc-44e3-88fe-843ff2f866c1" />
+<img align="center" alt="PRi-pic" height="500" width="1000" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/7dbffc42-5648-42ef-b93b-f9433629f073"/>
 
 
 
